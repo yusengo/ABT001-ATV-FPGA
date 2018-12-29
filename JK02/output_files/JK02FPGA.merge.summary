@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Wed Jul 11 20:10:02 2018
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : JK02FPGA
+Top-level Entity Name : JK02FPGA
+Family : Cyclone IV E
+Total logic elements : 1,367 / 6,272 ( 22 % )
+    Total combinational functions : 732 / 6,272 ( 12 % )
+    Dedicated logic registers : 967 / 6,272 ( 15 % )
+Total registers : 967
+Total pins : 35 / 92 ( 38 % )
+Total virtual pins : 0
+Total memory bits : 126,976 / 276,480 ( 46 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

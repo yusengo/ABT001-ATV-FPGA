@@ -1,0 +1,14 @@
+
+State Machine - |JK02FPGA|FPGA_DAC:inst3|StateM
+Name StateM.0011 StateM.0010 StateM.0001 StateM.0000 
+StateM.0000 0 0 0 0 
+StateM.0001 0 0 1 1 
+StateM.0010 0 1 0 1 
+StateM.0011 1 0 0 1 
+
+State Machine - |JK02FPGA|FPGA_ADC:inst2|StateM
+Name StateM.0011 StateM.0010 StateM.0001 StateM.0000 
+StateM.0000 0 0 0 0 
+StateM.0001 0 0 1 1 
+StateM.0010 0 1 0 1 
+StateM.0011 1 0 0 1 

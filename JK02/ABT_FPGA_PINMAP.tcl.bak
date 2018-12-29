@@ -1,0 +1,34 @@
+##############################################
+#        炬远智能科技（上海）有限公司
+##############################################
+
+
+#------------------GLOBAL--------------------#
+set_global_assignment -name RESERVE_ALL_UNUSED_PINS "AS INPUT TRI-STATED"
+set_global_assignment -name ENABLE_INIT_DONE_OUTPUT OFF
+
+set_location_assignment	PIN_23	-to	inclk0
+
+set_location_assignment	PIN_69	-to	DSP_SPI_DFIN
+set_location_assignment	PIN_70	-to	DSP_SPI_FDOUT
+set_location_assignment	PIN_71	-to	DSP_SPI_CLK
+set_location_assignment	PIN_72	-to	DSP_SPI_EN
+
+
+set_location_assignment	PIN_75	-to	DAC_NCS
+set_location_assignment	PIN_76	-to	DAC_CLK
+set_location_assignment	PIN_77	-to	DAC_SPIOUT
+
+set_location_assignment	PIN_83	-to	ADC_nRST
+set_location_assignment	PIN_84	-to	ADC_SPISDI
+set_location_assignment	PIN_85	-to	ADC_SPInCS
+set_location_assignment	PIN_86	-to	ADC_SPICLK
+set_location_assignment	PIN_87	-to	ADC_SPISDO
+
+
+#------------------END-----------------------#
+
+
+
+
+
